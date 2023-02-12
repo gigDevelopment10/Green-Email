@@ -1,0 +1,47 @@
+# This work is still under progress
+
+import 'dart:convert';
+import 'dart:math';
+import 'dart:async';
+
+double getScore(List<String> array, Map<String, int> labelValues) {
+  List<String> labels = array[0].split(" ");
+  int labelsScore = 0;
+  for (String label in labels) {
+    if (labelValues.containsKey(label)) {
+      labelsScore += labelValues[label];
+    }
+  }
+
+  var emailIntime = DateTime.parse("2023-01-12 06:58:54.000");
+  var totalDays = DateTime.now().difference(emailIntime).inDays;
+  double timeScore = totalDays * (15 / 365);
+
+  double sizeScore = array[2] * 0.00001;
+
+  double totalScore = labelsScore + timeScore + sizeScore;
+
+  return totalScore;
+}
+
+void main() {
+  List<String> a = [
+    'UNREAD IMPORTANT CATEGORY_FORUMS TRASH',
+    'nan',
+    567443,
+    '2023-01-12 06:58:54.000',
+    'Congratulations Team VIT - DESH Department for Receiving Best Paper Award',
+    '[image: image.png]\r\n'
+  ];
+  Map<String, int> labelValues = {
+    'CHAT': 2,
+    'TRASH': 8,
+    'SPAM': 7,
+    'CATEGORY_FORUMS': 4,
+    'CATEGORY_UPDATES': 5,
+    'CATEGORY_PROMOTIONS': 6,
+    'CATEGORY_SOCIAL': 6,
+    'UNREAD': 4
+  };
+  print(getScore(a, labelValues));
+}
