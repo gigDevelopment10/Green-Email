@@ -1,6 +1,8 @@
-<img width="711" alt="Screenshot 2023-03-26 at 7 53 34 PM" src="https://user-images.githubusercontent.com/84071291/227782294-0e5a786d-c2c0-40c9-b985-3c4827a1b5c5.png">
-# Green-Email
 
+<center>
+# Green Mail
+<img width="700" alt="Screenshot 2023-03-26 at 7 55 02 PM" src="https://user-images.githubusercontent.com/84071291/227782345-1261fc2e-43d6-4399-827f-a4eb2c5e63c8.png">
+<center/>
 
 
 
