@@ -1,17 +1,17 @@
 
 <center>
   
-# Green Mail
+# Green Mail ☘️
   
 <img width="700" alt="Screenshot 2023-03-26 at 7 55 02 PM" src="https://user-images.githubusercontent.com/84071291/227782345-1261fc2e-43d6-4399-827f-a4eb2c5e63c8.png">
-<center/>
+</center>
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#what-is-our-problem">About The Project</a>
+      <a href="#what-is-green-mail-?">About The Project</a>
     </li>
     <li>
       <a href="#the-story-of-icarus-name">About Icarus</a>
@@ -39,7 +39,7 @@
 </details>
 
 <!-- ABOUT THE PROJECT -->
-## What is Our Problem?
+## What is Green Mail ?
 <p>With mobile devices becoming an increasingly integral part of our daily lives, the amount of redundant data stored on them has also increased, leading to a significant carbon footprint.For Solution challenge 2023, we are designing ECOGREEN an application that is set to revolutionize the way we think about mobile storage and environmental sustainability. 
 
 Our app prompts users to identify and delete any unnecessary data from their mobile devices, thus reducing carbon emissions and optimizing storage space. In return for their efforts, users will receive coupons that can be redeemed for eco-friendly products, making this app not only environmentally conscious but also socially responsible.
