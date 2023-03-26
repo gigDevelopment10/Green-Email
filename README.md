@@ -1,10 +1,7 @@
+<img width="711" alt="Screenshot 2023-03-26 at 7 53 34 PM" src="https://user-images.githubusercontent.com/84071291/227782294-0e5a786d-c2c0-40c9-b985-3c4827a1b5c5.png">
 # Green-Email
 
-Temporary Dataset Source : https://www.kaggle.com/datasets/team-ai/spam-text-message-classification
 
-Colab refrence : https://colab.research.google.com/drive/1lDsKH-m1taNwhcuyz8O9S6tZ3pRxDUv_?usp=sharing
-
-# Green Email
 
 
 
